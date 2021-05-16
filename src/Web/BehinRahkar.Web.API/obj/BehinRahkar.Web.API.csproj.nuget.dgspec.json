@@ -1,0 +1,524 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Projects\\Repos\\ProductManaging\\src\\Web\\BehinRahkar.Web.API\\BehinRahkar.Web.API.csproj": {}
+  },
+  "projects": {
+    "H:\\Projects\\Repos\\ProductManaging\\src\\Application\\BehinRahkar.Application.Contracts\\BehinRahkar.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Projects\\Repos\\ProductManaging\\src\\Application\\BehinRahkar.Application.Contracts\\BehinRahkar.Application.Contracts.csproj",
+        "projectName": "BehinRahkar.Application.Contracts",
+        "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Application\\BehinRahkar.Application.Contracts\\BehinRahkar.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Akram\\.nuget\\packages\\",
+        "outputPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Application\\BehinRahkar.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Core\\Framework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Projects\\Repos\\ProductManaging\\src\\Domain\\BehinRahkar.Domain\\BehinRahkar.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Projects\\Repos\\ProductManaging\\src\\Domain\\BehinRahkar.Domain\\BehinRahkar.Domain.csproj",
+        "projectName": "BehinRahkar.Domain",
+        "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Domain\\BehinRahkar.Domain\\BehinRahkar.Domain.csproj",
+        "packagesPath": "C:\\Users\\Akram\\.nuget\\packages\\",
+        "outputPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Domain\\BehinRahkar.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Core\\Framework.Core.csproj"
+              },
+              "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Domain\\Framework.Domain.csproj": {
+                "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Domain\\Framework.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Core\\Framework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Core\\Framework.Core.csproj",
+        "projectName": "Framework.Core",
+        "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Core\\Framework.Core.csproj",
+        "packagesPath": "C:\\Users\\Akram\\.nuget\\packages\\",
+        "outputPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Domain\\Framework.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Domain\\Framework.Domain.csproj",
+        "projectName": "Framework.Domain",
+        "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Domain\\Framework.Domain.csproj",
+        "packagesPath": "C:\\Users\\Akram\\.nuget\\packages\\",
+        "outputPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Core\\Framework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Infrastructure.Shared\\BehinRahkar.Infrastructure.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Infrastructure.Shared\\BehinRahkar.Infrastructure.Shared.csproj",
+        "projectName": "BehinRahkar.Infrastructure.Shared",
+        "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Infrastructure.Shared\\BehinRahkar.Infrastructure.Shared.csproj",
+        "packagesPath": "C:\\Users\\Akram\\.nuget\\packages\\",
+        "outputPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Infrastructure.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Core\\Framework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel.Core": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Persistence.EF\\BehinRahkar.Persistence.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Persistence.EF\\BehinRahkar.Persistence.EF.csproj",
+        "projectName": "BehinRahkar.Persistence.EF",
+        "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Persistence.EF\\BehinRahkar.Persistence.EF.csproj",
+        "packagesPath": "C:\\Users\\Akram\\.nuget\\packages\\",
+        "outputPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Persistence.EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "H:\\Projects\\Repos\\ProductManaging\\src\\Domain\\BehinRahkar.Domain\\BehinRahkar.Domain.csproj": {
+                "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Domain\\BehinRahkar.Domain\\BehinRahkar.Domain.csproj"
+              },
+              "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Infrastructure.Shared\\BehinRahkar.Infrastructure.Shared.csproj": {
+                "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Infrastructure.Shared\\BehinRahkar.Infrastructure.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Projects\\Repos\\ProductManaging\\src\\Web\\BehinRahkar.Web.API\\BehinRahkar.Web.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Projects\\Repos\\ProductManaging\\src\\Web\\BehinRahkar.Web.API\\BehinRahkar.Web.API.csproj",
+        "projectName": "BehinRahkar.Web.API",
+        "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Web\\BehinRahkar.Web.API\\BehinRahkar.Web.API.csproj",
+        "packagesPath": "C:\\Users\\Akram\\.nuget\\packages\\",
+        "outputPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Web\\BehinRahkar.Web.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Akram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "H:\\Projects\\Repos\\ProductManaging\\src\\Application\\BehinRahkar.Application.Contracts\\BehinRahkar.Application.Contracts.csproj": {
+                "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Application\\BehinRahkar.Application.Contracts\\BehinRahkar.Application.Contracts.csproj"
+              },
+              "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Infrastructure.Shared\\BehinRahkar.Infrastructure.Shared.csproj": {
+                "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Infrastructure.Shared\\BehinRahkar.Infrastructure.Shared.csproj"
+              },
+              "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Persistence.EF\\BehinRahkar.Persistence.EF.csproj": {
+                "projectPath": "H:\\Projects\\Repos\\ProductManaging\\src\\Infrastructure\\BehinRahkar.Persistence.EF\\BehinRahkar.Persistence.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.6, )"
+            },
+            "Microsoft.Identity.Web": {
+              "target": "Package",
+              "version": "[1.9.2, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQ05lnae1Pw24AzgjQkxguXraYJ+jo0xT4glnj7Jokd87mu7axNPH3ydGP7EP6rks5iGKzNsw9A+X0Ud7rseag==",
+  "success": true,
+  "projectFilePath": "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Core\\Framework.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akram\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "euDnD/Wbddu/5FCT+a1Z+mfH9esil5igDkqTnQ9Qs4EWAQTu5NaNM/lS99DFNRKczD1bvBp5TYP+6p8KpDQfsQ==",
+  "success": true,
+  "projectFilePath": "H:\\Projects\\Repos\\ProductManaging\\src\\Framework\\Framework.Persistence\\Framework.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Akram\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Akram\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Akram\\.nuget\\packages\\framework.domain\\1.0.0\\framework.domain.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

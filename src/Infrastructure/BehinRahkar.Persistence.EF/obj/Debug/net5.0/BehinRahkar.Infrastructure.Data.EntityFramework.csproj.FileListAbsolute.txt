@@ -1,0 +1,12 @@
+H:\Projects\BehinRahkar\src\Infrastructure\BehinRahkar.Infrastructure.Data.EntityFramework\bin\Debug\net5.0\BehinRahkar.Infrastructure.Data.EntityFramework.deps.json
+H:\Projects\BehinRahkar\src\Infrastructure\BehinRahkar.Infrastructure.Data.EntityFramework\bin\Debug\net5.0\BehinRahkar.Infrastructure.Data.EntityFramework.dll
+H:\Projects\BehinRahkar\src\Infrastructure\BehinRahkar.Infrastructure.Data.EntityFramework\bin\Debug\net5.0\ref\BehinRahkar.Infrastructure.Data.EntityFramework.dll
+H:\Projects\BehinRahkar\src\Infrastructure\BehinRahkar.Infrastructure.Data.EntityFramework\bin\Debug\net5.0\BehinRahkar.Infrastructure.Data.EntityFramework.pdb
+H:\Projects\BehinRahkar\src\Infrastructure\BehinRahkar.Infrastructure.Data.EntityFramework\obj\Debug\net5.0\BehinRahkar.Infrastructure.Data.EntityFramework.csprojAssemblyReference.cache
+H:\Projects\BehinRahkar\src\Infrastructure\BehinRahkar.Infrastructure.Data.EntityFramework\obj\Debug\net5.0\BehinRahkar.Infrastructure.Data.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\BehinRahkar\src\Infrastructure\BehinRahkar.Infrastructure.Data.EntityFramework\obj\Debug\net5.0\BehinRahkar.Infrastructure.Data.EntityFramework.AssemblyInfoInputs.cache
+H:\Projects\BehinRahkar\src\Infrastructure\BehinRahkar.Infrastructure.Data.EntityFramework\obj\Debug\net5.0\BehinRahkar.Infrastructure.Data.EntityFramework.AssemblyInfo.cs
+H:\Projects\BehinRahkar\src\Infrastructure\BehinRahkar.Infrastructure.Data.EntityFramework\obj\Debug\net5.0\BehinRahkar.Infrastructure.Data.EntityFramework.csproj.CoreCompileInputs.cache
+H:\Projects\BehinRahkar\src\Infrastructure\BehinRahkar.Infrastructure.Data.EntityFramework\obj\Debug\net5.0\BehinRahkar.Infrastructure.Data.EntityFramework.dll
+H:\Projects\BehinRahkar\src\Infrastructure\BehinRahkar.Infrastructure.Data.EntityFramework\obj\Debug\net5.0\ref\BehinRahkar.Infrastructure.Data.EntityFramework.dll
+H:\Projects\BehinRahkar\src\Infrastructure\BehinRahkar.Infrastructure.Data.EntityFramework\obj\Debug\net5.0\BehinRahkar.Infrastructure.Data.EntityFramework.pdb
